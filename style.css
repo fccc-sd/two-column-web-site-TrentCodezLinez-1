@@ -108,3 +108,17 @@ img
     float: left;
     margin: 10px;
 }
+
+tr, th, td{
+    color: white;
+    text-align: left;
+    padding-right: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+caption{
+    color: white;
+}
